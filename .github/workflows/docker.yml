@@ -24,4 +24,4 @@ jobs:
         with:
           context: ./docker
           push: true
-          tags: roko1987-k8s/ricardo-palma:latest
+          tags: roko1987/ricardo-palma:latest
